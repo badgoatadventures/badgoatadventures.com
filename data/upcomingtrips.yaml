@@ -1,0 +1,14 @@
+- id: 0
+  name: Day Hikes in Yosemite
+  image: https://www.nationalparks.org/sites/default/files/styles/wide_1x/public/shutterstock_142351951.jpg?itok=y_xdbvtu
+  url: https://checkfront.com/yosemite
+
+- id: 1
+  name: Rock Climbing Trips
+  image: https://www.nationalparks.org/sites/default/files/styles/wide_1x/public/shutterstock_142351951.jpg?itok=y_xdbvtu
+  url: https://checkfront.com/rock
+
+- id: 2
+  name: Snowshoe Weekend in Truckee
+  image: /images/snowmountains.jpg
+  url: https://checkfront.com/snow
